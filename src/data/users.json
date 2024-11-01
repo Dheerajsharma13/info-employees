@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Johnson Wood",
+    "role": "Front-End Developer",
+    "email": "johnsonwood@microsoft.com",
+    "status": "Active",
+    "avatar": "https://images.pexels.com/photos/4691216/pexels-photo-4691216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "role": "Team Lead",
+    "email": "johndoe@microsoft.com",
+    "status": "Inactive",
+    "avatar": "https://images.pexels.com/photos/6963939/pexels-photo-6963939.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 3,
+    "name": "Alex Made",
+    "role": "Software Engineer",
+    "email": "alexmade@microsoft.com",
+    "status": "Active",
+    "avatar": "https://images.pexels.com/photos/7641824/pexels-photo-7641824.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "name": "Fakhar Naveed",
+    "role": "UI/UX Designer",
+    "email": "fakhar@microsoft.com",
+    "status": "Active",
+    "avatar": "https://images.pexels.com/photos/3777564/pexels-photo-3777564.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "name": "Emily Clark",
+    "role": "Product Manager",
+    "email": "emilyclark@microsoft.com",
+    "status": "Inactive",
+    "avatar": "https://images.pexels.com/photos/7606047/pexels-photo-7606047.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 6,
+    "name": "Michael Chen",
+    "role": "Data Scientist",
+    "email": "michaelchen@microsoft.com",
+    "status": "Active",
+    "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]
